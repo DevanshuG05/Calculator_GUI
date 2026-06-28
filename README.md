@@ -1,8 +1,14 @@
 # 🧮 Java Swing Calculator
 
-A simple Calculator application built using **Java Swing** that performs basic arithmetic operations through a graphical user interface.
+A simple and user-friendly **Calculator** application built using **Java Swing**. It performs basic arithmetic operations through an interactive graphical user interface.
 
-## 📌 Features
+## 📷 Preview
+
+<p align="center">
+  <img src="calculator.png" alt="Java Swing Calculator" width="500">
+</p>
+
+## ✨ Features
 
 - ➕ Addition
 - ➖ Subtraction
@@ -12,7 +18,7 @@ A simple Calculator application built using **Java Swing** that performs basic a
 - 🔢 Power Calculation (x^y)
 - ⌫ Backspace
 - 🧹 Clear All (A/C)
-- 🖥️ Simple and user-friendly GUI
+- 🖥️ Clean and user-friendly GUI
 
 ## 🛠️ Technologies Used
 
@@ -22,56 +28,50 @@ A simple Calculator application built using **Java Swing** that performs basic a
 
 ## 📂 Project Structure
 
-```
+```text
 Calculator/
-│── src/
+│
+├── calculator.png
+│
+├── src/
 │   └── personalCalc/
 │       └── Calc.java
-│── README.md
+│
+└── README.md
 ```
 
 ## 🚀 How to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/DevanshuG05/Calculator.git
 ```
 
-2. Open the project in Eclipse or any Java IDE.
+### 2. Open the project
 
-3. Navigate to:
+Open the project in **Eclipse IDE** (or any Java IDE that supports Swing).
 
-```
+### 3. Navigate to
+
+```text
 src/personalCalc/Calc.java
 ```
 
-4. Run the `Calc.java` file.
+### 4. Run the application
 
-<h2>📷 Preview</h2>
-
-<img src="images/calculator.png" width="500">
-
-Example:
-
-```
-calculator.png
-```
-
-```markdown
-![Calculator Screenshot](calculator.png)
-```
+Run the `Calc.java` file to launch the calculator.
 
 ## ⚙️ Supported Operations
 
 | Operation | Example |
 |-----------|---------|
-| Addition | 10 + 5 |
-| Subtraction | 20 - 8 |
-| Multiplication | 12 × 3 |
-| Division | 25 / 5 |
-| Percentage | 20%500 = 100 |
-| Power | 2^5 = 32 |
+| Addition | `10 + 5` |
+| Subtraction | `20 - 8` |
+| Multiplication | `12 × 3` |
+| Division | `25 / 5` |
+| Percentage | `20%500 = 100` |
+| Power | `2^5 = 32` |
 
 ## 📖 Future Improvements
 
@@ -80,25 +80,29 @@ calculator.png
 - Multiple operations in a single expression
 - Calculation history
 - Dark mode
-- Better error handling
+- Improved error handling
 - Responsive UI
 
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push the branch
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
 ## 👨‍💻 Author
 
 **Devanshu Gaidhane**
 
-GitHub: https://github.com/DevanshuG05
+GitHub: **[@DevanshuG05](https://github.com/DevanshuG05)**
 
 ---
 
-⭐ If you like this project, don't forget to star the repository!
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+
+Happy Coding! 🚀
