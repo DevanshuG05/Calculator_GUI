@@ -35,7 +35,7 @@ Calculator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Calculator.git
+git clone https://github.com/DevanshuG05/Calculator.git
 ```
 
 2. Open the project in Eclipse or any Java IDE.
@@ -55,11 +55,11 @@ src/personalCalc/Calc.java
 Example:
 
 ```
-images/calculator.png
+Screenshot 2026-06-28 142918.png
 ```
 
 ```markdown
-![Calculator Screenshot](images/calculator.png)
+![Calculator Screenshot](Screenshot 2026-06-28 142918.png)
 ```
 
 ## ⚙️ Supported Operations
