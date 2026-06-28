@@ -55,11 +55,11 @@ src/personalCalc/Calc.java
 Example:
 
 ```
-Screenshot 2026-06-28 142918.png
+calculator.png
 ```
 
 ```markdown
-![Calculator Screenshot](Screenshot 2026-06-28 142918.png)
+![Calculator Screenshot](calculator.png)
 ```
 
 ## ⚙️ Supported Operations
