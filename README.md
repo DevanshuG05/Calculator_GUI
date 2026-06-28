@@ -48,9 +48,9 @@ src/personalCalc/Calc.java
 
 4. Run the `Calc.java` file.
 
-## 📷 Preview
+<h2>📷 Preview</h2>
 
-> Add a screenshot of your calculator here.
+<img src="images/calculator.png" width="500">
 
 Example:
 
